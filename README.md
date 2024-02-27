@@ -3,13 +3,9 @@
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Running the Project](#running-the-project)
-- [Docker Compose](#docker-compose)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation and Running the Project](#installation)
+
+
 
 ## Prerequisites
 
